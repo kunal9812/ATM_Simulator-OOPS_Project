@@ -9,3 +9,14 @@ This project is a simple ATM Simulator built using C++. It allows users to perfo
 * Menu-Driven User Interface
 * Object-Oriented Design (Classes, Objects, Constructors)
 * Clean and Modular Code Structure
+
+## Flowchart
+* Main Function
+![ATM_Simulator Flowchat](main.png)
+
+* For ATM_Simulation 
+![ATM_Simulator Flowchat](ATM_flowchart.png)
+
+* For Bank
+![ATM_Simulator Flowchat](Bank_flowchart.png)
+
